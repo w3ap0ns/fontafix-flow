@@ -80,7 +80,7 @@ export function Hero() {
         >
           Fontanería <br />
           <span className="relative inline-block">
-            <span className="bg-gradient-cyan bg-clip-text text-transparent">profesional</span>
+            <span className="text-cyan">profesional</span>
             <Droplets className="absolute -top-2 -right-8 md:-right-12 w-6 h-6 md:w-10 md:h-10 text-cyan animate-float" />
           </span>{" "}
           <br className="hidden md:block" />
