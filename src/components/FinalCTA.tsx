@@ -33,7 +33,7 @@ export function FinalCTA() {
           className="font-display text-5xl sm:text-7xl md:text-8xl lg:text-9xl mt-6 leading-[0.9] tracking-tighter"
         >
           Llámanos. <br />
-          <span className="bg-gradient-cyan bg-clip-text text-transparent italic font-light">
+          <span className="text-cyan italic font-light">
             Lo solucionamos hoy.
           </span>
         </motion.h2>
