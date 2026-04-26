@@ -76,7 +76,7 @@ export function ServiceFlow() {
                 </div>
 
                 <div className="relative bg-card rounded-3xl p-6 md:p-7 border border-border shadow-soft hover:shadow-navy hover:-translate-y-1 transition-all duration-300">
-                  <div className="flex items-center justify-between mb-6">
+                  <div className="flex flex-col items-start gap-3 mb-6">
                     <div className="w-12 h-12 rounded-2xl bg-gradient-cyan flex items-center justify-center text-navy-deep">
                       <s.icon className="w-6 h-6" strokeWidth={2.2} />
                     </div>
